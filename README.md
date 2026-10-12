@@ -89,8 +89,8 @@ flowchart TD
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/dr5t/solodesk-ai.git
-cd solodesk-ai
+git clone https://github.com/dr5t/Sollodesk-Ai-x-MLH.git
+cd Sollodesk-Ai-x-MLH
 
 # 2. Install dependencies
 npm install
